@@ -1,0 +1,17 @@
+Em java o ++ anteriormente da variável altera antes do processo, seja de um estrutura de repetição 
+ou de um Sysout. O ++ a frente do número ou variável ele só altera depois do processo.
+
+Operador ternário
+<epressão condicional> ? <Caso condição seja true>:<Caso condição seja false>
+
+Operadores lógicos 
+&& - and || - or
+
+métodos (funções)
+Nomeado como verbo, ser em camelCase.
+somarNumeros (parametros) {}
+
+public <tipo de retorno> <nome do método> {parâmetro} {
+    lógica
+    return(se necessário)
+}
