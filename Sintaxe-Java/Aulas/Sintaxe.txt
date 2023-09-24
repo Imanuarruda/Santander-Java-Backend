@@ -18,3 +18,11 @@ public <tipo de retorno> <nome do método> {parâmetro} {
     lógica
     return(se necessário)
 }
+
+    FLUXO DE CONTROLE 
+For each 
+irá ser printado o conteúdo em cada elemento
+
+for (String conteudo : no array){
+    System.out.println("cada elemento do array" + conteudo);
+}
